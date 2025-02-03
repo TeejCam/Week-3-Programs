@@ -55,8 +55,6 @@ def display():
     print("Normal: 18.5-24.9")
     print("Overweight: 25.0-29.9")
 
-
-
 display()
 
 
